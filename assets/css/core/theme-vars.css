@@ -1,0 +1,52 @@
+:root {
+	--content-gap: 20px;
+	--nav-width: 1024px;
+	--main-width: 720px;
+	--header-height: 60px;
+	--footer-height: 60px;
+	--radius: 2px;
+	--theme: rgb(255, 255, 255);
+	--reg-pal-comp: rgba(186, 195, 15, 0.79);
+	--reg-pal: rgb(103, 42, 235);
+	--reg-pal2: rgb(166, 127, 249);
+	--reg-pal3: rgb(212, 192, 255);
+
+	--primary: rgb(30, 30, 30);
+	--secondary: rgb(108, 108, 108);
+	--tertiary: rgb(214, 214, 214);
+	--content: rgb(31, 31, 31);
+	--code-block-bg: rgb(28, 29, 33);
+	--code-bg: rgb(245, 245, 245);
+	--border: rgb(173, 173, 173);
+	color-scheme: light;
+
+	--gapXS: 2px;
+	--gapS: 6px;
+	--gapSM: 8px;
+	--gapM: 12px;
+	--gapL: 16px;
+	--fontSizeXXS: 10px;
+	--fontSizeXS: 12px;
+	--fontSizeS: 16px;
+	--fontSizeM: 24px;
+	--fontSizeL: 32px;
+	--fontSizeXL: 60px;
+	--fontSizeHeader: 9.3vw;
+	--fontSizeHeaderMobile: 9.3vw;
+	--navBarHeight: 49px;
+	--firefoxFilterAlignmentBuffer: 3.5px;
+	--lineHeightS: 0.9;
+	--lineHeightM: 1.1;
+	--borderWidth: 1px;
+	--title: 'manrope', 'Arial', sans-serif;
+	--title-bld: 'manrope-bld', 'Arial', sans-serif;
+	--body: 'manifont', 'Times New Roman ', Times, serif;
+	--annotation: 'Barlow', 'Arial', sans-serif;
+
+	font-family: var(--body);
+}
+
+.list {
+	/* background: var(--code-bg); */
+	/* background-image: linear-gradient(var(--reg-pal), var(--theme) 10vh); */
+}

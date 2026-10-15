@@ -1,0 +1,42 @@
+baseURL: ''
+locale: en-us
+title: Regards Palestiniens
+theme: ['PaperMod']
+
+params:
+  disableThemeToggle: true
+  defaultTheme: light
+  hideMeta: true
+  cover: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+  # INFO FOR HEADER
+  festivalInfoParams:
+    Collective: 'Regards Palestiniens'
+    Edition: 'Edition 20'
+    Date: '07 > 10 November 2026'
+    Title: 'Generations of Nakba'
+
+  # cover:
+  #   hidden: true # hide everywhere but not in structured data
+  #   hiddenInList: true # hide on list pages and home
+  #   hiddenInSingle: true # hide on single page
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        useEmbedded: always
+      link:
+        useEmbedded: always
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: static
+      target: assets

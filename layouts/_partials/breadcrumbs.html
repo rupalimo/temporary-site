@@ -1,0 +1,35 @@
+{{- if (.Param "ShowBreadCrumbs") -}}
+<nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+	{{- $ancestors := .Ancestors.Reverse -}} {{- range $i, $bc := $ancestors }}
+	{{- if eq $i 0 }}
+	<a href="{{ $bc.RelPermalink }}"
+		><p>Back to festival home</p>
+		<svg
+			width="9"
+			height="9"
+			viewBox="0 0 9 9"
+			fill="none"
+			xmlns="http://www.w3.org/2000/svg"
+		>
+			<path
+				d="M-2.18557e-07 4.33008L9 -4.99845e-05L9 8.6602L-2.18557e-07 4.33008Z"
+				fill="black"
+			></path>
+		</svg>
+	</a>
+
+	{{- end }} {{- end }}
+	<!-- <svg
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 24 24"
+		fill="none"
+		stroke="currentColor"
+		stroke-width="2"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+		class="feather feather-chevron-right"
+	>
+		<polyline points="9 18 15 12 9 6"></polyline>
+	</svg> -->
+</nav>
+{{- end -}}

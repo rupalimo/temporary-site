@@ -1,0 +1,24 @@
+<div class="program__item">
+	<div class="program--header">
+		<p class="tag">{{ .Params.program.pType }}</p>
+
+		<span>
+			<!-- <p class="order">{{ .Params.order }}</p> -->
+			<h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+		</span>
+	</div>
+
+	<ul>
+		<li>
+			{{ .Params.program.pDate }} <br />
+			{{ .Params.program.pTime }}
+		</li>
+
+		<li>
+			{{ .Params.venue.vName }} <br />
+			{{ .Params.venue.vAddress }}
+		</li>
+
+		<li><a href="">Ticket</a></li>
+	</ul>
+</div>
