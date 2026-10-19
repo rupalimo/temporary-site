@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://rupalimo.github.io/temporary-site/'
 locale: en-us
 title: Regards Palestiniens
 theme: ['PaperMod']
