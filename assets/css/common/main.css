@@ -3,12 +3,13 @@
 	min-height: calc(100vh - var(--header-height) - var(--footer-height));
 	/* max-width: calc(var(--main-width) + var(--gap) * 2); */
 	margin: auto;
-	padding: var(--gapS);
+	/* padding: var(--gapS); */
+	border-top: var(--borderWidth) solid var(--rp-2);
 
 	display: grid;
 	grid-template-columns: 2fr minmax(400px, 3fr);
 	/* grid-gap: 1rem; */
-	padding: 0 var(--gapL);
+	/* padding: 0 var(--gapL); */
 }
 
 .page-header h1 {

@@ -1,19 +1,13 @@
 <header class="header festival__header">
-   
-        {{- with site.Params.festivalInfoParams }}
-         <ul class="header-nav">
+   {{- with site.Params.festivalInfoParams }}
+ <ul class="header-nav">
 
- <li>{{ .Collective | markdownify }}
-
- </li>
-
-  
-   <li>
-     {{ .Edition | markdownify }}
-
-     </br>{{ .Date | markdownify }}
-   </li>
-         </ul>
+ <li>{{ .Collective | markdownify }}</li>
+  <span>
+    <li>{{ .Edition | markdownify }}</li>
+    <li>{{ .Date | markdownify }}</li>
+  </span>
+ </ul>
        
         <h1 class="festival--title">{{ .Title | markdownify }}</h1>
     <div>{{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}</div>

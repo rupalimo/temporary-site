@@ -15,6 +15,8 @@
 	position: sticky;
 	top: 0;
 	z-index: -1;
+	/* border-bottom: var(--borderWidth) solid var(--rp-2); */
+	/* background: var(--reg-pal-comp); */
 }
 
 .festival__header ul {
@@ -25,7 +27,6 @@
 	grid-template-columns: repeat(5, 1fr);
 	font-family: var(--title);
 	font-weight: 800;
-	font-size: var(--fontSizeM);
 }
 
 .festival__header li:nth-of-type(1) {
@@ -41,12 +42,16 @@
 	line-height: var(--lineHeightS);
 	font-family: var(--title);
 	margin-bottom: calc(var(--gapL) + var(--gapS));
+	/* border: 1px solid white; */
+	/* background: rgb(199, 220, 31); */
+	/* text-shadow: 3px 3px 1rem; */
+
 	/* font-weight: normal; */
-	text-shadow: 0 0px 2px var(--content);
+	/* text-shadow: 0 0 3px var(--reg-pal); */
 }
 
 .col-1 {
-	margin-right: var(--gapL);
+	border-right: var(--borderWidth) solid var(--rp-4);
 }
 
 .col-1,
@@ -55,10 +60,7 @@
 	backdrop-filter: blur(4px);
 	height: fit-content;
 	border-bottom: var(--borderWidth) solid var(--border);
-}
-
-.col-2 {
-	margin-left: -1px;
+	padding: var(--gapL);
 }
 
 .section__title,
@@ -81,7 +83,7 @@
 } */
 
 .col-1 nav,
-.col-1 .section__title,
+/* .col-1 .section__title, */
 .breadcrumbs,
 .program--title {
 	border: var(--borderWidth) solid var(--border);
@@ -100,6 +102,10 @@
 .col-1 nav a,
 .program--title p {
 	margin: 0;
+}
+
+.festival__statement {
+	/* background: var(--rp-1); */
 }
 
 .festival__statement .section__title p,
@@ -126,15 +132,15 @@
 	grid-template-columns: repeat(3, minmax(200px, 1fr));
 	grid-template-rows: auto 1fr;
 	column-gap: var(--gapL);
-	border: var(--borderWidth) solid var(--reg-pal);
-	border-bottom: none;
+	/* border: var(--borderWidth) solid var(--reg-pal); */
+	/* border-bottom: none; */
 }
 
 .program__list h1 {
 	font-size: var(--fontSizeL);
 	text-transform: capitalize;
 	font-family: var(--title-bld);
-	text-shadow: 0 0 1px var(--content);
+	/* text-shadow: 0 0 1px var(--content); */
 }
 
 .program__list .program__item {
@@ -175,6 +181,10 @@
 	display: flex;
 	flex-direction: row;
 	margin-bottom: var(--gapL);
+}
+
+.festival__program {
+	background: var(--rp-3);
 }
 
 .festival__program .section__title {
@@ -240,7 +250,7 @@
 }
 
 .section__details hr + p::before {
-	content: '';
+	/* content: ''; */
 	background: var(--reg-pal);
 	height: 0.5rem;
 	width: 0.5rem;
