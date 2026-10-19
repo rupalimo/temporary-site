@@ -13,8 +13,8 @@
 	/* border: var(--borderWidth) solid var(--reg-pal-comp); */
 
 	/* border-style: none none solid solid; */
-	padding: var(--gapS) var(--gapL);
-	margin: var(--gapM) var(--gapL) var(--gapM) 0;
+	/* padding: var(--gapS) var(--gapL); */
+	margin: var(--gapM);
 	/* box-shadow: 0 0 10px var(--border) inset; */
 	/* border-radius: 1rem; */
 }

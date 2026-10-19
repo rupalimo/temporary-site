@@ -17,12 +17,7 @@ params:
     name: 'Cinema Public'
     address: '505 Rue Jean-Talon E, Montréal, QC'
   ticket: true
-# cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+  first: false # leave false, determines landing page tab
 ---
 
 Co-presented with Regards palestiniens, in collaboration with [McGill Refugee
@@ -32,7 +27,7 @@ Images Studies, Concordia University).
 
 ---
 
-Feature Film
+1/1
 
 ### Militant cinema
 

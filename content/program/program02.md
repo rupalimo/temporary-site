@@ -16,12 +16,7 @@ params:
     name: 'Cinema Public'
     address: '505 Rue Jean-Talon E, Montréal, QC'
   ticket: true
-# cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+  first: false
 ---
 
 This final screening night centers around the stories of Palestinian women who
@@ -32,7 +27,7 @@ rich and important detail to often silenced narratives.
 
 ---
 
-Short Film
+1/2
 
 ### Jamila’s Mirror
 
@@ -53,7 +48,7 @@ during their teen years.
 
 ---
 
-feature film
+2/2
 
 ### Tell Your Tale Little Bird
 

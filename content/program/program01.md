@@ -9,19 +9,15 @@ title: 'Young Voices'
 
 params:
   program:
-    category: 'Screening'
     date: '28 November 2023'
     time: '8pm - 10pm'
+    category: 'Screening'
+    details: 'Followed by Q&A'
   venue:
     name: 'Cinema Public'
     address: '505 Rue Jean-Talon E, Montréal, QC'
   ticket: true
-cover:
-  image: '/program-01.png' # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+  first: true # true -> selects the program page that will be open by default
 ---
 
 The short film program “Young Voices” explores the worlds of Palestinian
@@ -32,7 +28,7 @@ attune listeners to the violence of Zionist settler colonialism.
 
 ---
 
-Short film
+1/2
 
 ### Vibrations from Gaza
 
@@ -57,7 +53,7 @@ resonance of collapsing buildings.
 
 ---
 
-Short film
+2/2
 
 ### Far Away From Home
 

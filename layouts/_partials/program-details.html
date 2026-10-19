@@ -1,0 +1,45 @@
+<details
+	name="program--item"
+	class="program__item"
+	{{
+	if
+	.Params.first
+	}}
+	open
+	{{
+	end
+	}}
+>
+	<summary class="section__title">
+		<p>{{ .Params.program.date }}</p>
+	</summary>
+
+	<div class="section__details">
+		<div class="program--header">
+			<!-- <p class="tag">{{ .Params.program.type }}</p> -->
+
+			<!-- <span>
+				<p class="tag">{{ .Params.program.category }}</p>
+				{{ if .Params.program.details }}
+				<p class="details">{{ .Params.program.details }}</p>
+				{{ end }}
+			</span> -->
+			<h1>{{ .Title }}</h1>
+		</div>
+
+		<ul>
+			<li>
+				{{ .Params.program.date }} <br />
+				{{ .Params.program.time }}
+			</li>
+
+			<li>
+				{{ .Params.venue.name }} <br />
+				{{ .Params.venue.address }}
+			</li>
+
+			<li class="ticket"><a href="">Ticket</a></li>
+		</ul>
+		<div>{{ .Content }}</div>
+	</div>
+</details>

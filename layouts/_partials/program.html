@@ -1,28 +1,10 @@
 <section class="festival__program col-2">
 	<!-- start -->
 
-	{{ with .GetPage "program" }}
-	<span class="section__title">
-		<p>{{ .Title }}</p>
-		<svg
-			width="9"
-			height="9"
-			viewBox="0 0 9 9"
-			fill="none"
-			xmlns="http://www.w3.org/2000/svg"
-		>
-			<path
-				d="M4.33008 9L-4.88043e-05 -8.15666e-07L8.66021 -5.85621e-08L4.33008 9Z"
-				fill="black"
-			></path>
-		</svg>
-	</span>
-	{{ end }}
-
 	<article class="program__list">
 		{{- if .IsHome }} {{ $current := . }} {{ range where
 		.Site.RegularPages.ByDate "Type" "program" }} {{- partial
-		"program-preview.html" . }} {{ end }} {{- end }}
+		"program-details.html" . }} {{ end }} {{- end }}
 	</article>
 	<!-- end -->
 </section>

@@ -1,7 +1,7 @@
 ---
 date: '2026-09-29T14:35:38-04:00'
 draft: false
-title: 'Statement'
+title: 'Festival Statement'
 ---
 
 The 16th edition of Regards palestiniens takes place against the horrific
