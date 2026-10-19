@@ -8,14 +8,13 @@ weight: 2
 title: 'Feminist Resistance'
 
 params:
-  order: '2/3'
   program:
-    pType: 'Screening'
-    pDate: '29 November 2023'
-    pTime: '8pm - 10pm'
+    category: 'Screening'
+    date: '29 November 2023'
+    time: '8pm - 10pm'
   venue:
-    vName: 'Cinema Public'
-    vAddress: '505 Rue Jean-Talon E, Montréal, QC'
+    name: 'Cinema Public'
+    address: '505 Rue Jean-Talon E, Montréal, QC'
   ticket: true
 # cover:
 #     image: "<image path/url>" # image path/url

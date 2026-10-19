@@ -22,7 +22,7 @@
 	<article class="program__list">
 		{{- if .IsHome }} {{ $current := . }} {{ range where
 		.Site.RegularPages.ByDate "Type" "program" }} {{- partial
-		"program-header.html" . }} {{ end }} {{- end }}
+		"program-preview.html" . }} {{ end }} {{- end }}
 	</article>
 	<!-- end -->
 </section>

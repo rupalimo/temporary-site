@@ -18,10 +18,12 @@ params:
     Date: '07 > 10 November 2026'
     Title: 'Generations of Nakba'
 
-  # cover:
-  #   hidden: true # hide everywhere but not in structured data
-  #   hiddenInList: true # hide on list pages and home
-  #   hiddenInSingle: true # hide on single page
+cover:
+  hiddenInSingle: true
+  hiddenInList: false
+  # hide on single page
+  # hidden: true # hide everywhere but not in structured data
+  # hiddenInList: true # hide on list pages and home
 
 caches:
   images:

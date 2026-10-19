@@ -1,0 +1,28 @@
+<div class="program__item">
+	<div class="program--header">
+		<!-- <p class="tag">{{ .Params.program.type }}</p> -->
+
+		<span>
+			<p class="tag">{{ .Params.program.category }}</p>
+			{{ if .Params.program.details }}
+			<p class="details">{{ .Params.program.details }}</p>
+			{{ end }}
+		</span>
+		<h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+	</div>
+
+	<ul>
+		<li>
+			{{ .Params.program.date }} <br />
+			{{ .Params.program.time }}
+		</li>
+
+		<li>
+			{{ .Params.venue.name }} <br />
+			{{ .Params.venue.address }}
+		</li>
+
+		<li class="ticket"><a href="">Ticket</a></li>
+	</ul>
+	{{- partial "cover.html" }}
+</div>

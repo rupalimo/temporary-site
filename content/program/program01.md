@@ -8,17 +8,16 @@ weight: 1
 title: 'Young Voices'
 
 params:
-  order: '1/3'
   program:
-    pType: 'Screening'
-    pDate: '28 November 2023'
-    pTime: '8pm - 10pm'
+    category: 'Screening'
+    date: '28 November 2023'
+    time: '8pm - 10pm'
   venue:
-    vName: 'Cinema Public'
-    vAddress: '505 Rue Jean-Talon E, Montréal, QC'
+    name: 'Cinema Public'
+    address: '505 Rue Jean-Talon E, Montréal, QC'
   ticket: true
-# cover:
-#     image: "<image path/url>" # image path/url
+cover:
+  image: '/program-01.png' # image path/url
 #     alt: "<alt text>" # alt text
 #     caption: "<text>" # display caption under cover
 #     relative: false # when using page bundles set this to true
