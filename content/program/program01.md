@@ -28,20 +28,13 @@ attune listeners to the violence of Zionist settler colonialism.
 
 ---
 
-1/2
+![](/vibrations-from-gaza.png)
 
 ### Vibrations from Gaza
 
-| label     | detail                                       |
-| --------- | -------------------------------------------- |
-| filmmaker | Rehab Nassal                                 |
-| year      | 2023                                         |
-| duration  | 16′                                          |
-| country   | Palestine, Canada                            |
-| languages | Arabic, Sign Language with English subtitles |
-| genre     | Documentary                                  |
+Directed by Rehab Nassal
 
-![](/vibrations-from-gaza.png)
+- Palestine, Canada / 2023 / 16′ / Arabic, Sign Language with English subtitles
 
 A glimpse into the experiences of Deaf children in the colonized and confined
 coastal territory of Gaza, Palestine. Born and raised under siege and frequent
@@ -53,20 +46,13 @@ resonance of collapsing buildings.
 
 ---
 
-2/2
+![](/far-away-from-home.png)
 
 ### Far Away From Home
 
-| label     | detail                        |
-| --------- | ----------------------------- |
-| filmmaker | Qais Al-Zubaidi               |
-| year      | 1969                          |
-| duration  | 11′                           |
-| country   | Syrian Arab Republic          |
-| languages | Arabic with English subtitles |
-| genre     | Documentary                   |
+Directed by Qais Al-Zubaidi
 
-![](/far-away-from-home.png)
+- Syrian Arab Republic / 1969 / 11′ / Arabic with English subtitles
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex
 sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis

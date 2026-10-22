@@ -1,6 +1,6 @@
 <section class="festival__statement col-1">
 	{{ with .GetPage "festival-statement" }}
-	<details open>
+	<!-- <details open>
 		<summary class="section__title">
 			<p>{{ .Title }}</p>
 
@@ -16,9 +16,9 @@
 					fill="black"
 				></path>
 			</svg>
-		</summary>
-
-		<div>{{ .Content }}</div>
-	</details>
+		</summary> -->
+	<h2>Festival Statement</h2>
+	<div>{{ .Content }}</div>
+	<!-- </details> -->
 	{{ end }}
 </section>

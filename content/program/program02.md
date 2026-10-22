@@ -27,20 +27,13 @@ rich and important detail to often silenced narratives.
 
 ---
 
-1/2
+![](/jamilas-mirror.png)
 
 ### Jamila’s Mirror
 
-| label     | detail                        |
-| --------- | ----------------------------- |
-| filmmaker | Arab Loutfi                   |
-| year      | 1993                          |
-| duration  | 30′                           |
-| country   | Palestine                     |
-| languages | Arabic with English subtitles |
-| genre     | Documentary                   |
+Directed by Arab Loutfi
 
-![](/jamilas-mirror.png)
+- Palestine / 1993 / 30′ / Arabic with English subtitles
 
 _Jamila’s Mirror_ deals with the memories of Palestinian female guerilla
 fighters, currently in their forties, who were involved in military operations
@@ -48,20 +41,13 @@ during their teen years.
 
 ---
 
-2/2
+![](/tell-your-tale.png)
 
 ### Tell Your Tale Little Bird
 
-| label     | detail                        |
-| --------- | ----------------------------- |
-| filmmaker | Arab Loutfi                   |
-| year      | 2007                          |
-| duration  | 90′                           |
-| country   | Egypt                         |
-| languages | Arabic with English subtitles |
-| genre     | Documentary                   |
+Directed by Arab Loutfi
 
-![](/tell-your-tale.png)
+- Egypt / 2007 / 90′ / Arabic with English subtitles
 
 _Tell your tale, Little Bird_ recounts the experiences of seven Palestinian
 women involved in the national liberation struggle in the sixties and seventies,

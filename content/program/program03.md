@@ -27,20 +27,14 @@ Images Studies, Concordia University).
 
 ---
 
-1/1
+![](/militant-cinema.png)
 
 ### Militant cinema
 
-| label     | detail                                           |
-| --------- | ------------------------------------------------ |
-| filmmaker | Mohanad Yaqubi                                   |
-| year      | 2022                                             |
-| duration  | 71′                                              |
-| country   | Palestine, Qatar, Belgium                        |
-| languages | English, Arabic, Japanese with English subtitles |
-| genre     | Documentary                                      |
+Directed by Mohanad Yaqubi
 
-![](/militant-cinema.png)
+- Palestine, Qatar, Belgium / 2022 / 71′ / English, Arabic, Japanese with
+  English subtitles
 
 The growing struggle for Palestinian self-determination between 1960 and 1980
 was supported by radical left-wing movements worldwide, also in Japan. This is

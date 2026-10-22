@@ -1,0 +1,62 @@
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+{{- $theme := site.Params.defaultTheme | default "auto" }}
+{{- if eq $theme "dark" }}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="dark">
+{{- else if eq $theme "light" }}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="light">
+{{- else }}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="auto">
+{{- end }}
+
+<head>
+    {{- partial "head.html" . }}
+</head>
+
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
+<body class="list" id="top">
+    <div class="background-overlay">
+		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="0" width="0">
+			<defs>
+				<filter id="noise" x="0%" y="0%" width="100%" height="100%">
+					<feTurbulence
+						type="fractalNoise"
+						baseFrequency="0 0.0025"
+						result="NOISE"
+						numOctaves="2"
+					/>
+					<feDisplacementMap
+						in="SourceGraphic"
+						in2="NOISE"
+						scale="100"
+						xChannelSelector="R"
+						yChannelSelector="R"
+					></feDisplacementMap>
+				</filter>
+			</defs>
+		</svg></div>
+       <div class="background">
+        <img src="/program-02.png" alt="">
+        <div class="background-halftone"></div>
+       </div>
+       
+{{- else }}
+<body id="top">
+ 
+{{- end }}
+    {{ partialCached "header.html" . .Page -}}
+
+
+
+    {{- partial "statement.html" . }}
+     {{- partial "program.html" . }}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+
+</html>

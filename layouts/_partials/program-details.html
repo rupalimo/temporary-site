@@ -10,9 +10,7 @@
 	end
 	}}
 >
-	<summary class="section__title">
-		<p>{{ .Params.program.date }}</p>
-	</summary>
+	<summary class="section__title">{{ .Title }}</summary>
 
 	<div class="section__details">
 		<div class="program--header">
@@ -24,7 +22,7 @@
 				<p class="details">{{ .Params.program.details }}</p>
 				{{ end }}
 			</span> -->
-			<h1>{{ .Title }}</h1>
+			<!-- <h1>{{ .Title }}</h1> -->
 		</div>
 
 		<ul>
@@ -40,6 +38,6 @@
 
 			<li class="ticket"><a href="">Ticket</a></li>
 		</ul>
-		<div>{{ .Content }}</div>
+		<di class="content">{{ .Content }}</di>
 	</div>
 </details>
