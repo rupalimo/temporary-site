@@ -1,11 +1,5 @@
 {{- define "main" }}
-<section class="col-1">
-	{{ partial "breadcrumbs.html" . }}
-	<!-- <menu class="program-menu">
-		{{ $current := . }} {{ range where .Site.RegularPages.ByDate "Type"
-		"program" }} {{- partial "program-as-menu.html" . }} {{ end }}
-	</menu> -->
-</section>
+<section class="col-1">{{ partial "breadcrumbs.html" . }}</section>
 <section class="program col-2">
 	<div class="top--border">
 		<svg
