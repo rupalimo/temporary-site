@@ -10,7 +10,7 @@ params:
   program:
     date: 'Friday, November 06'
     time: '8pm'
-    category: ''
+    category: 'Feature Film'
     details: ''
   venue:
     name: 'Cinema Public'

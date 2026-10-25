@@ -27,13 +27,9 @@ h6 {
 }
 
 body {
-	/* font-family: 'Arial', 'Open Sans', 'Helvetica Neue', sans-serif; */
 	font-size: var(--fontSizeS);
 	line-height: 1.15;
 	word-break: break-word;
-	/* color: var(--reg-pal); */
-	/* background: var(--theme); */
-	/* background-image: linear-gradient(red, yellow, blue); */
 }
 
 article,

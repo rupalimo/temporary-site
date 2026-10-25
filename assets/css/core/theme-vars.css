@@ -19,7 +19,7 @@
 	--code-block-bg: rgb(28, 29, 33);
 	--code-bg: rgb(245, 245, 245);
 	--border: rgb(173, 173, 173);
-	--bg: #00000014;
+	--bg: #0e19bc7a;
 	color-scheme: light;
 
 	--gapXS: 2px;
@@ -45,6 +45,7 @@
 	--body: 'Barlow', 'Times New Roman ', Times, serif;
 	--annotation: 'Crimson', 'Arial', sans-serif;
 
+	/* color: var(--color-01); */
 	font-family: var(--body);
 }
 

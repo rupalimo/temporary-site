@@ -106,7 +106,7 @@
 	font-family: var(--title);
 	margin-bottom: calc(var(--gapL) + var(--gapS));
 	text-transform: uppercase;
-	letter-spacing: -10px;
+	letter-spacing: -4px;
 	font-weight: 400;
 }
 
@@ -119,7 +119,6 @@
 	box-shadow: 0 0 2px #0000004f inset;
 	z-index: 11;
 	color: white;
-	/* background: rgba(104, 0, 255, 0.64); */
 	border: var(--borderWidth) solid var(--reg-pal);
 	background: var(--bg);
 	position: absolute;
@@ -287,6 +286,7 @@ aside h2 {
 .program__item[open] .section__title {
 	border: var(--borderWidth) solid var(--color-02);
 	color: var(--color-02);
+	background: rgba(10, 37, 201, 0.7);
 	/* box-shadow: 0 0 3px 0 var(--color-02) inset; */
 }
 
@@ -411,7 +411,6 @@ aside h2 {
 }
 
 .program__list ul li {
-	padding-right: calc(2 * var(--gapL));
 	font-size: var(--fontSizeS);
 }
 
@@ -492,7 +491,7 @@ aside h2 {
 
 	.festival__statement-mobile,
 	.festival__program {
-		border-radius: 2rem;
+		border-radius: var(--radius);
 		box-shadow: 0 0 6px 2px rgb(0, 26, 255) inset;
 	}
 
@@ -538,8 +537,13 @@ aside h2 {
 		font-size: var(--fontSizeHeaderMobile);
 	}
 
+	.col-1,
 	.col-2 {
-		border-radius: 2rem;
-		box-shadow: 0 0 6px 2px #001aff inset;
+		background: rgba(20, 56, 236, 0.8);
+	}
+
+	.program__item[open] .section__title {
+		background: rgba(18, 48, 231, 0.7);
+		box-shadow: 0 0 4px 1px var(--color-02) inset;
 	}
 }

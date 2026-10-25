@@ -20,8 +20,8 @@ params:
   first: false
 ---
 
-The second night of _Returns_ is a shorts programme contending with how memory
-and recollection shape the intertwined histories and realities of Lebanon and
+The second night of _Returns_ is a shorts program contending with how memory and
+recollection shape the intertwined histories and realities of Lebanon and
 Palestine. From experimental film to video essays, these seven films ask what
 happens to a story after each retelling? What defines the event after each
 recurrence? In every wake is a wave going after what’s been lost.
@@ -59,9 +59,9 @@ women involved in the national liberation struggle in the sixties and seventies,
 including their experience of arrest and imprisonment. Through their tales, we
 understand what made these women the symbols of their people’s fight.
 
-Co-presented with Regards Palestiniens, in collaboration with Maison Palestine ~
-Dar Filastin, as part of Generations of Nakba. The screening will be followed by
-a discussion with filmmaker Karam Abu Ali.
+Co-presented with Maison Palestine ~ Dar Filastin, as part of Generations of
+Nakba. The screening will be followed by a discussion with filmmaker Karam Abu
+Ali.
 
 ---
 
