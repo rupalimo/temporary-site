@@ -16,9 +16,10 @@ params:
   # INFO FOR HEADER
   festivalInfoParams:
     Collective: 'Regards Palestiniens'
-    Edition: 'Edition 20'
-    Date: '07 > 10 November 2026'
-    Title: 'Generations of Nakba'
+    Edition: '17th Edition'
+    Date: '6 - 8 November 2026'
+    Title: 'Returns'
+    tagline: 'Three days of Palestinian and Lebanese cinema'
 
 cover:
   hiddenInSingle: true

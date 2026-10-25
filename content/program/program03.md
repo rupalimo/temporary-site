@@ -1,53 +1,60 @@
 ---
 date: '2026-09-29T14:24:22-04:00'
 draft: false
-showToc: true
-TocOpen: true
+
 weight: 3
 
-title: 'Militant cinema'
+title: 'Bakri in Retrospect'
 
 params:
   order: '3'
   program:
-    category: 'Screening'
-    date: '30 November 2023'
-    time: '8pm - 10pm'
+    category: 'Double Bill'
+    date: 'Sunday, November 08'
+    time: '3pm'
   venue:
     name: 'Cinema Public'
     address: '505 Rue Jean-Talon E, Montréal, QC'
-  ticket: true
+    ticket:
+      'Suggested donation of $15 or PWYC at the door, first come first served -
+      credit card or cash.'
   first: false # leave false, determines landing page tab
 ---
 
-Co-presented with Regards palestiniens, in collaboration with [McGill Refugee
-Research Group][1], as part of Generations of Nakba. The screening will be
-followed by a discussion with Fadi AbuNe’meh (PhD Candidate in Film and Moving
-Images Studies, Concordia University).
+The final night of _Returns_ is dedicated to the late Mohammad Bakri
+(1953-2025), who has been a pillar of Palestinian cinema and theatre for over
+five decades. Bakri’s final two works confront the concept of legacy when
+situated in the ongoing struggle for Palestinian liberation. As these films
+reveal: to look back is to look around us, bearing witness to history repeating
+itself.
 
 ---
 
 ![](/militant-cinema.png)
 
-### Militant cinema
+### Le Monde
 
-Directed by Mohanad Yaqubi
+Directed by Mohammad Bakri
 
-- Palestine, Qatar, Belgium / 2022 / 71′ / English, Arabic, Japanese with
-  English subtitles
+Palestine / 2025 / 6′ / No dialogue
 
-The growing struggle for Palestinian self-determination between 1960 and 1980
-was supported by radical left-wing movements worldwide, also in Japan. This is
-illustrated by a collection of 16mm films by militant filmmakers from various
-countries, which were dubbed and screened in Japan. Their Japanese audiences
-felt oppressed by the US after World War II, and not only sympathized but also
-identified with the Palestinians. Stylistically, the films vary widely. They
-include interviews with PLO leaders, documentary impressions of life in refugee
-camps, experimental films, and instructional films for tourism purposes. Mohanad
-Yaqubi has drawn on this material to create a film that might be seen as a
-conclusion or epilogue. He shows how two very different peoples can feel
-connected through images, and also raises questions. Where is the line between
-support and propaganda? And to what extent can a local struggle be translated
-internationally?
+A café-restaurant becomes the world in Bakri’s final work. At the back of a full
+house, a television mounted on the wall broadcasts the atrocities in Gaza while
+the customers of “Le Monde” are absorbed in their own circles. Only a
+70-year-old man and his daughter seem to notice what’s on the screen.
 
-[1]: https://www.mcgillrefugeeresearchgroup.com/
+---
+
+![](/militant-cinema.png)
+
+### Janin Jenin
+
+Directed by Mohammad Bakri
+
+Palestine / 2024 / 60′ / Arabic
+
+Following the 2023 Zionist invasion of the Jenin refugee camp, director Mohammad
+Bakri returns after visiting two decades prior. Plenty has changed throughout
+these years punctuated by recurring invasions. Familiar faces and new, including
+Bakri, take to the lens to provide testimony in this haunting sequel to his 2002
+documentary, _Jenin, Jenin_.

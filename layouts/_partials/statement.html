@@ -21,4 +21,19 @@
 	<div>{{ .Content }}</div>
 	<!-- </details> -->
 	{{ end }}
+
+</section>
+
+<section class="festival__statement-mobile col-1">
+	{{ with .GetPage "festival-statement" }}
+	<details>
+		<summary class="section__title">
+				<h2>Festival Statement</h2>
+		</summary>
+
+	<div>{{ .Content }}</div>
+	<!-- </details> -->
+	{{ end }}
+
+	
 </section>

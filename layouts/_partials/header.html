@@ -1,9 +1,11 @@
 <header class="header festival__header">
 	{{- with site.Params.festivalInfoParams }}
 
-	<p>{{ .Collective | markdownify }} presents:</p>
-	<!-- <p>{{ .Title | markdownify }} | {{ .Edition | markdownify }}</p> -->
+	<p>{{ .Collective | markdownify }} presents</p>
 
 	<h1 class="festival--title">{{ .Title | markdownify }}</h1>
+	<p>{{ .Tagline | markdownify }}</p>
+	<p>{{ .Edition | markdownify }} / {{ .Date | markdownify }}</p>
+
 	{{- end -}}
 </header>

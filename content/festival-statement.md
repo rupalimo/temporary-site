@@ -4,35 +4,41 @@ draft: false
 title: 'Festival Statement'
 ---
 
-The 16th edition of Regards palestiniens takes place against the horrific
-backdrop of Israel’s continuous bombing of Palestinians in Gaza and its
-intensifying violent attacks on Palestinians in the West Bank. As the number of
-dead and injured and maimed and disfigured continues to rise, we continue to
-grieve, and to collectively and repeatedly condemn the genocide and ethnic
-cleansing that is unfolding in Palestine and that we are bearing witness to at a
-mediated distance here in the Global North—a painful reality that is sanctioned
-by our governments and largely silenced or distorted by mainstream news outlets.
+_Regards Palestiniens_ returns with its 17th Edition, marking three years since
+the intensification of the genocide. The Zionist occupation continues to
+escalate its violence against Palestinians in Gaza and the West Bank, as it
+expands its Western-backed imperialist agenda across its borders in South
+Lebanon and the surrounding region.
 
-It is necessary to challenge misleading and biased rhetoric, and to counter
-racist representations that dehumanize Palestinians and sustain the complacency
-towards the suffering inflicted on them. This year’s program therefore draws
-urgent attention to 75 years of persisting Nakba, of which the current assault
-is only the latest manifestation. Across three nights, Generations of Nakba
-screens important subjects in the multi-generational Palestinian struggle
-against more than a century of settler colonialism, violence, oppression, and
-apartheid. Whether attending to the activities and perspectives of resisting
-Palestinian women, the voices and soundscapes of younger generations, or
-harkening back to militant image-making of the long 1970s and its transnational
-resonances, these films are testament to the many layers of Palestinian history,
-to the importance of listening, and to keeping up the struggle against erasure.
+The cognitive dissonance deepens as the attacks worsen – while global solidarity
+expands at a rapid pace through student and civil society protests and targeted
+boycotts (BDS and PACBI), world governments have been slow to acknowledge the
+depth of the brutality being perpetrated against Palestinians, nor have they
+sanctioned the Zionist entity in any meaningful way. Over the years, the
+Palestinian fight for freedom has been put in conversation with imperialist
+violence in Sudan, the Congo, Yemen, and Indigenous communities in Turtle Island
+and around the world. It’s clear that this is a new era of polycrisis, and that
+internationalism must be at the forefront of these interconnected struggles in
+order to make way for the anti-colonial cause for liberation.
 
-We are more than ever committed to amplify Palestinian voices and perspectives.
-It is in firm support and solidarity with the Palestinian people’s steadfast
-struggle for freedom, justice, and equality that we offer this
-programGenerations of Nakba is co-presented with Cinéma Public, with the support
-of The Raah Lab (Concordia University), Maison Palestine ~ Dar Filastin, and
-McGill Refugee Research Group.
+In this sense, the 17th Edition is a return to form as we consider history’s
+repetition across three evenings of screenings. Time has taken on an
+indistinguishable shape, where the horrors being committed across Palestine and
+Lebanon today are a throughline to the beginnings of the Nakba and its
+precedents. Returns opens as a refusal to reproduce grief and violence as
+spectacle, while not looking away from the testimonial documentation of ethnic
+cleansing and ongoing genocide.
 
-_Generations of Nakba is co-presented with Cinema Public, with the support of
-The Raah Lab (Concordia University), Maison Palestine ~ Dar Filastin, and McGill
-Refugee Research Group._
+Rooted in remembrance, recollection, and retrospection, these films speculate on
+the act of witnessing as a possible site of resurrection, and a continuous
+commitment in support of Palestine.
+
+Pay-what-you-can at the door. All proceeds from these screenings will be donated
+to the [Sameer Project][1]. Returns is co-presented with [Cinéma Public][2],
+with the support of the [Feminist Media Studio (Concordia University)][3] and
+[QPIRG Concordia][4].
+
+[1]: https://thesameerproject.org/
+[2]: https://cinemapublic.ca/en/series/regards-palestiniens-returns/
+[3]: https://feministmediastudio.ca/
+[4]: https://www.qpirgconcordia.org/fr/

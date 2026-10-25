@@ -1,62 +1,46 @@
 ---
 date: '2026-09-29T14:24:22-04:00'
 draft: false
-showToc: true
-TocOpen: true
+
 weight: 1
 
-title: 'Young Voices'
+title: 'Remembering'
 
 params:
   program:
-    date: '28 November 2023'
-    time: '8pm - 10pm'
-    category: 'Screening'
-    details: 'Followed by Q&A'
+    date: 'Friday, November 06'
+    time: '8pm'
+    category: ''
+    details: ''
   venue:
     name: 'Cinema Public'
-    address: '505 Rue Jean-Talon E, Montréal, QC'
-  ticket: true
+    address: '505 Rue Jean-Talon E, Montréal'
+    ticket:
+      'Suggested donation of $15 or PWYC at the door, first come first served -
+      credit card or cash.'
   first: true # true -> selects the program page that will be open by default
 ---
 
-The short film program “Young Voices” explores the worlds of Palestinian
-children and youth through an emphasis on different soundscapes and voices. From
-bombardments felt through vibrations in Gaza to video game sounds that simulate
-lived reality under colonial rule, the sonic components of cinema intimately
-attune listeners to the violence of Zionist settler colonialism.
+In lieu of visually reproducing the genocide in Gaza as a spectacle of violence,
+we focus on remembering through testimony: moments of boredom, anguish over
+limitations, reveling in music, being on the beach, and caring for community.
+For this opening night, we gather to witness everyday life resist the
+occupation.
 
 ---
 
 ![](/vibrations-from-gaza.png)
 
-### Vibrations from Gaza
+### Gazan Tales
 
-Directed by Rehab Nassal
+Mahmoud Nabil Ahmed
 
-- Palestine, Canada / 2023 / 16′ / Arabic, Sign Language with English subtitles
+Palestine, Tunisia / 2024 / 82′ / Arabic, English subtitles
 
-A glimpse into the experiences of Deaf children in the colonized and confined
-coastal territory of Gaza, Palestine. Born and raised under siege and frequent
-onslaughts these children, including Amani, Musa, Israa, and others, provide
-vivid accounts of their encounter of bombardment and the constant presence of
-drones in their sky. The children describe their perceptions of missile strikes
-through sensing vibrations in the air, trembling of the ground, and the
-resonance of collapsing buildings.
-
----
-
-![](/far-away-from-home.png)
-
-### Far Away From Home
-
-Directed by Qais Al-Zubaidi
-
-- Syrian Arab Republic / 1969 / 11′ / Arabic with English subtitles
-
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex
-sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis
-convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
-lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer
-nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora
-torquent per conubia nostra inceptos himenaeos.
+Mahmoud Nabil Ahmed presents a touching chronicle of four men in the Gaza Strip.
+The result is an unflinching, yet tender glimpse of ordinary life under siege,
+which has since become a time capsule in hindsight. Completed on the eve of
+October 7 2023, this documentary may also be one of the last testimonies from
+the Gaza Strip before the intensification of the genocide. As these men navigate
+existential angst and precarity, small graces reveal decades of collective
+survival and endurance at play.

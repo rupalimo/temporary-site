@@ -10,34 +10,28 @@
 	end
 	}}
 >
-	<summary class="section__title">{{ .Title }}</summary>
+	<summary class="section__title">{{ .Params.program.date }}</summary>
 
 	<div class="section__details">
 		<div class="program--header">
 			<!-- <p class="tag">{{ .Params.program.type }}</p> -->
 
-			<!-- <span>
-				<p class="tag">{{ .Params.program.category }}</p>
-				{{ if .Params.program.details }}
-				<p class="details">{{ .Params.program.details }}</p>
-				{{ end }}
-			</span> -->
-			<!-- <h1>{{ .Title }}</h1> -->
+			<p class="tag">{{ .Params.program.category }}</p>
+			{{ if .Params.program.details }}
+			<p class="details">{{ .Params.program.details }}</p>
+			{{ end }}
+
+			<h1>{{ .Title }}</h1>
 		</div>
 
-		<ul>
+		<ul class="venue">
 			<li>
-				{{ .Params.program.date }} <br />
-				{{ .Params.program.time }}
+				<a href="https://cinemapublic.ca/series/regards-palestiniens-retours/"
+					>{{ .Params.venue.name }}</a
+				>
 			</li>
-
-			<li>
-				{{ .Params.venue.name }} <br />
-				{{ .Params.venue.address }}
-			</li>
-
-			<li class="ticket"><a href="">Ticket</a></li>
+			<li>{{ .Params.program.date }} &#183; {{ .Params.program.time }}</li>
 		</ul>
-		<di class="content">{{ .Content }}</di>
+		<div class="content">{{ .Content }}</div>
 	</div>
 </details>

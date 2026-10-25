@@ -8,18 +8,9 @@
 	--theme: rgb(255, 255, 255);
 	--reg-pal-comp: rgba(186, 195, 15, 0.79);
 	--reg-pal: rgb(55, 87, 245);
-	/* --reg-pal: rgb(0, 42, 255); */
-	--reg-pal2: rgb(232, 58, 197);
-	--reg-pal3: rgb(89, 89, 46);
-	/* 
-	--rp-1: rgb(233, 220, 210); */
-	--rp-1: rgb(255, 166, 199);
-	--rp-2: rgb(73, 42, 21);
-	/* --rp-3: rgb(118, 128, 38); */
-	--rp-3: rgb(209, 229, 44);
+
 	--color-01: rgb(183, 215, 227);
-	--color-02: rgb(229, 210, 44);
-	--rp-4: rgb(216, 83, 40);
+	--color-02: rgb(232, 58, 197);
 
 	--primary: rgb(30, 30, 30);
 	--secondary: rgb(108, 108, 108);
@@ -28,6 +19,7 @@
 	--code-block-bg: rgb(28, 29, 33);
 	--code-bg: rgb(245, 245, 245);
 	--border: rgb(173, 173, 173);
+	--bg: #00000014;
 	color-scheme: light;
 
 	--gapXS: 2px;
@@ -42,16 +34,16 @@
 	--fontSizeL: 32px;
 	--fontSizeXL: 60px;
 	--fontSizeHeader: 9.3vw;
-	--fontSizeHeaderMobile: 9.3vw;
+	--fontSizeHeaderMobile: 16vw;
 	--navBarHeight: 49px;
 	--firefoxFilterAlignmentBuffer: 3.5px;
 	--lineHeightS: 0.9;
 	--lineHeightM: 1.1;
 	--borderWidth: 1px;
-	--title: 'manrope', 'Arial', sans-serif;
-	--title-bld: 'manrope-bld', 'Arial', sans-serif;
-	--body: 'manifont', 'Times New Roman ', Times, serif;
-	--annotation: 'Barlow', 'Arial', sans-serif;
+
+	--title: 'Poppins', 'Arial', sans-serif;
+	--body: 'Barlow', 'Times New Roman ', Times, serif;
+	--annotation: 'Crimson', 'Arial', sans-serif;
 
 	font-family: var(--body);
 }
