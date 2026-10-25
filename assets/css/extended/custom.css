@@ -520,8 +520,8 @@ aside h2 {
 	}
 
 	.festival__program .section__title {
-		padding: var(--gapL);
-		border-right: var(--borderWidth) solid var(--color-02);
+		padding: var(--gapS);
+		border-right: var(--borderWidth) solid transparent;
 	}
 
 	.section__details {
