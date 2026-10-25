@@ -107,6 +107,7 @@
 	margin-bottom: calc(var(--gapL) + var(--gapS));
 	text-transform: uppercase;
 	letter-spacing: -10px;
+	font-weight: 400;
 }
 
 .col-1,
