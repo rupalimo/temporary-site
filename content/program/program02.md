@@ -28,7 +28,7 @@ recurrence? In every wake is a wave going after what’s been lost.
 
 ---
 
-![](/jamilas-mirror.png)
+![](/control-anatomy.jpg)
 
 ### Control Anatomy
 
@@ -46,7 +46,7 @@ make an archive of violence after every war?
 
 ---
 
-![](/tell-your-tale.png)
+![](/a-girl-gazing.jpg)
 
 ### A Girl, Gazing: Fragment #5
 
@@ -65,7 +65,7 @@ a discussion with filmmaker Karam Abu Ali.
 
 ---
 
-![](/tell-your-tale.png)
+![](/the-bunker.jpg)
 
 ### The Bunker, the Barracks & the Base
 
@@ -83,7 +83,7 @@ South Lebanon.
 
 ---
 
-![](/tell-your-tale.png)
+![](/mnemosyne.jpg)
 
 ### Mnemosyne
 
@@ -101,7 +101,7 @@ the primary source is no longer there.
 
 ---
 
-![](/tell-your-tale.png)
+![](/land-of-denied-rituals.png)
 
 ### Land of Denied Rituals
 
@@ -119,7 +119,7 @@ and presence.
 
 ---
 
-![](/tell-your-tale.png)
+![](/when-solid-turns.png)
 
 ### When Solid Turns to Dust, or a Note on Liquidity from Palestine
 
@@ -138,7 +138,7 @@ imaginary, one in which a future is possible.
 
 ---
 
-![](/tell-your-tale.png)
+![](/a-crack-in-the-water.jpg)
 
 ### A Crack in the Water Followed by Return
 

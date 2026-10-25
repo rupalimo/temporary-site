@@ -29,7 +29,7 @@ occupation.
 
 ---
 
-![](/vibrations-from-gaza.png)
+![](/gazan-tales.jpg)
 
 ### Gazan Tales
 

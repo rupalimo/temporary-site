@@ -30,7 +30,7 @@ itself.
 
 ---
 
-![](/militant-cinema.png)
+![](/le-monde.png)
 
 ### Le Monde
 
@@ -45,7 +45,7 @@ the customers of “Le Monde” are absorbed in their own circles. Only a
 
 ---
 
-![](/militant-cinema.png)
+![](/janin-jenin.png)
 
 ### Janin Jenin
 
