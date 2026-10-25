@@ -45,7 +45,7 @@ the customers of “Le Monde” are absorbed in their own circles. Only a
 
 ---
 
-![](/janin-jenin.png)
+![](/janin-jenin.jpg)
 
 ### Janin Jenin
 
