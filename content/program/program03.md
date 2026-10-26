@@ -36,7 +36,7 @@ itself.
 
 Directed by Mohammad Bakri
 
-Palestine / 2025 / 6′ / No dialogue
+Palestine / 2025 / 6min / No dialogue
 
 A café-restaurant becomes the world in Bakri’s final work. At the back of a full
 house, a television mounted on the wall broadcasts the atrocities in Gaza while
@@ -51,7 +51,7 @@ the customers of “Le Monde” are absorbed in their own circles. Only a
 
 Directed by Mohammad Bakri
 
-Palestine / 2024 / 60′ / Arabic
+Palestine / 2024 / 60min / Arabic
 
 Following the 2023 Zionist invasion of the Jenin refugee camp, director Mohammad
 Bakri returns after visiting two decades prior. Plenty has changed throughout

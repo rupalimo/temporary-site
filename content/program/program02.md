@@ -34,7 +34,7 @@ recurrence? In every wake is a wave going after what’s been lost.
 
 Directed by Mahmoud Alhaj
 
-Palestine / 2024 / 17′ / Arabic with English subtitles
+Palestine / 2024 / 17min / Arabic with English subtitles
 
 The Gryphon/Griffin, both a mythological figure and a Zionist aircraft and
 missile system, is the entry into this study on the technological evolution of
@@ -52,16 +52,14 @@ make an archive of violence after every war?
 
 Directed by Fatima Joumaa
 
-Lebanon / 2025 / 6′ / Arabic with English subtitles
+Lebanon / 2025 / 6min / Arabic with English subtitles
 
-_Tell your tale, Little Bird_ recounts the experiences of seven Palestinian
-women involved in the national liberation struggle in the sixties and seventies,
-including their experience of arrest and imprisonment. Through their tales, we
-understand what made these women the symbols of their people’s fight.
-
-Co-presented with Maison Palestine ~ Dar Filastin, as part of Generations of
-Nakba. The screening will be followed by a discussion with filmmaker Karam Abu
-Ali.
+A collage of scenes woven together from images and video segments taken at
+funeral processions in South Lebanon while the brutal Zionist war escalated
+in 2024. As communal mourning unfolds, a chorus (Fatima, Reem and Hadil) defies
+their loss of words. Lyrical and evocative, this documentary intimately
+positions the viewer as an active participant in grieving the human stories
+behind the headlines.
 
 ---
 
@@ -71,7 +69,7 @@ Ali.
 
 Directed by Batoul Faour
 
-Lebanon / 2023 / 18′ / Arabic with English subtitles
+Lebanon / 2023 / 18min / Arabic with English subtitles
 
 Towards the end of WWII, French and British forces fortified Lebanon’s Khiam
 Marjayoun valley, and its surrounding villages, with three structures at its
@@ -89,15 +87,15 @@ South Lebanon.
 
 Directed by Inas Halabi
 
-Palestine / 2016 / 13′ / Arabic with English subtitles
+Palestine / 2016 / 13min / Arabic with English subtitles
 
 Relatives recall their own version of the story of how the artist’s grandfather
 got a scar on his forehead. The scar, which is the aftermath of a bullet shot by
-an Zionist soldier, becomes the foundational hinge in this destabilizing grasp
-at family history. Was the scar on the left or right side of his forehead, and
-did it happen in the late 1940s, or was it yesterday? Titled after the Greek
-goddess of memory, this project explores taking on the role of historian when
-the primary source is no longer there.
+a Zionist soldier, becomes the foundational hinge in this destabilizing grasp at
+family history. Was the scar on the left or right side of his forehead, and did
+it happen in the late 1940s, or was it yesterday? Titled after the Greek goddess
+of memory, this project explores taking on the role of historian when the
+primary source is no longer there.
 
 ---
 
@@ -107,7 +105,7 @@ the primary source is no longer there.
 
 Directed by Ashtar Muallem
 
-Palestine / 2025 / 90 / Arabic with English subtitles
+Palestine / 2025 / 9min / Arabic with English subtitles
 
 In this experimental movement piece, the artist reinterprets disappearing
 funerary rites once widely practiced by Palestinian women, from songs to dances.
@@ -125,7 +123,7 @@ and presence.
 
 Directed by Samira Makki
 
-Lebanon / 2026 / 13′ / Arabic with English subtitles
+Lebanon / 2026 / 13min / Arabic with English subtitles
 
 Liquidity and leaks turn concept into anti-colonial strategy in this video
 essay, which takes after a letter written by political prisoner and martyr Walid
@@ -144,7 +142,7 @@ imaginary, one in which a future is possible.
 
 Directed by Dima Srouji
 
-Palestine / 2023 - ongoing / 2′ / Arabic with English subtitles
+Palestine / 2023 - ongoing / 2min / No dialogue
 
 Archival footage from the Nakba is superimposed onto floodwater to create a
 speculative homecoming. In the words of Noura Erakat: “Keep pushing, we’re

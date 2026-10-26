@@ -35,7 +35,7 @@ occupation.
 
 Mahmoud Nabil Ahmed
 
-Palestine, Tunisia / 2024 / 82′ / Arabic, English subtitles
+Palestine, Tunisia / 2024 / 82min / Arabic, English subtitles
 
 Mahmoud Nabil Ahmed presents a touching chronicle of four men in the Gaza Strip.
 The result is an unflinching, yet tender glimpse of ordinary life under siege,

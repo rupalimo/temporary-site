@@ -194,7 +194,7 @@ aside h2 {
 	/* background: var(--rp-1); */
 	width: calc(40vw - var(--content-gap));
 
-	top: 34vh;
+	top: 38vh;
 	left: var(--gapM);
 }
 
@@ -256,7 +256,7 @@ aside h2 {
 .program__item::details-content {
 	grid-row: 2;
 	grid-column: 1 / -1;
-	margin: var(--gapL) 0;
+	margin-top: var(--gapL);
 }
 
 .program__item:not([open])::details-content {
@@ -267,7 +267,7 @@ aside h2 {
 	width: calc(60vw - var(--content-gap));
 	right: var(--gapM);
 	left: 40vw;
-	top: 46vh;
+	top: 50vh;
 }
 
 .festival__program .section__title {
