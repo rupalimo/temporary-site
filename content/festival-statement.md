@@ -25,7 +25,7 @@ In this sense, the 17th Edition is a return to form as we consider history’s
 repetition across three evenings of screenings. Time has taken on an
 indistinguishable shape, where the horrors being committed across Palestine and
 Lebanon today are a throughline to the beginnings of the Nakba and its
-precedents. Returns opens as a refusal to reproduce grief and violence as
+precedents. **RETURNS** opens as a refusal to reproduce grief and violence as
 spectacle, while not looking away from the testimonial documentation of ethnic
 cleansing and ongoing genocide.
 

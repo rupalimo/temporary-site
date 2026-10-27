@@ -51,7 +51,7 @@ the customers of “Le Monde” are absorbed in their own circles. Only a
 
 Directed by Mohammad Bakri
 
-Palestine / 2024 / 60min / Arabic
+Palestine / 2024 / 60min / Arabic with French subtitles
 
 Following the 2023 Zionist invasion of the Jenin refugee camp, director Mohammad
 Bakri returns after visiting two decades prior. Plenty has changed throughout
