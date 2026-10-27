@@ -25,7 +25,7 @@ In this sense, the 17th Edition is a return to form as we consider history’s
 repetition across three evenings of screenings. Time has taken on an
 indistinguishable shape, where the horrors being committed across Palestine and
 Lebanon today are a throughline to the beginnings of the Nakba and its
-precedents. **RETURNS** opens as a refusal to reproduce grief and violence as
+precedents. _RETURNS_ opens as a refusal to reproduce grief and violence as
 spectacle, while not looking away from the testimonial documentation of ethnic
 cleansing and ongoing genocide.
 
@@ -34,7 +34,7 @@ the act of witnessing as a possible site of resurrection, and a continuous
 commitment in support of Palestine.
 
 Pay-what-you-can at the door. All proceeds from these screenings will be donated
-to the [Sameer Project][1]. Returns is co-presented with [Cinéma Public][2],
+to the [Sameer Project][1]. _RETURNS_ is co-presented with [Cinéma Public][2],
 with the support of the [Feminist Media Studio (Concordia University)][3] and
 [QPIRG Concordia][4].
 

@@ -21,7 +21,7 @@ params:
   first: false # leave false, determines landing page tab
 ---
 
-The final night of _Returns_ is dedicated to the late Mohammad Bakri
+The final night of _RETURNS_ is dedicated to the late Mohammad Bakri
 (1953-2025), who has been a pillar of Palestinian cinema and theatre for over
 five decades. Bakri’s final two works confront the concept of legacy when
 situated in the ongoing struggle for Palestinian liberation. As these films

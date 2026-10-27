@@ -198,12 +198,6 @@ aside h2 {
 	left: var(--gapM);
 }
 
-strong {
-	font-family: var(--title);
-	/* font-weight: normal; */
-	color: var(--color-01);
-}
-
 .festival__statement .section__title p,
 .col-1 nav a,
 .program--title p {

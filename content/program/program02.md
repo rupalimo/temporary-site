@@ -20,7 +20,7 @@ params:
   first: false
 ---
 
-The second night of _Returns_ is a shorts program contending with how memory and
+The second night of _RETURNS_ is a shorts program contending with how memory and
 recollection shape the intertwined histories and realities of Lebanon and
 Palestine. From experimental film to video essays, these seven films ask what
 happens to a story after each retelling? What defines the event after each
